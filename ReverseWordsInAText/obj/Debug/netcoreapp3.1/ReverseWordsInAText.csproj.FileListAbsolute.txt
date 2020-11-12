@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.exe
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.deps.json
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.runtimeconfig.json
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.dll
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\bin\Debug\netcoreapp3.1\ReverseWordsInAText.pdb
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.dll
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.pdb
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpBook\ReverseWordsInAText\obj\Debug\netcoreapp3.1\ReverseWordsInAText.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.exe
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.deps.json
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.runtimeconfig.json
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.dll
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\bin\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.pdb
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.dll
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.pdb
+C:\Users\User\source\repos\CSharpBook\PrintSentencesThatContainASpecificWord\obj\Debug\netcoreapp3.1\PrintSentencesThatContainASpecificWord.genruntimeconfig.cache
